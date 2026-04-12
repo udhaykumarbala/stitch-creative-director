@@ -2,8 +2,8 @@
   "name": "stitch-creative-director",
   "description": "Creative direction skills for Google Stitch",
   "owner": {
-    "name": "Udhay Kumar",
-    "email": "udhaykumarbala@gmail.com"
+    "name": "udhaykumar balakrishnan",
+    "email": "udhayk97@gmail.com"
   },
   "plugins": [
     {
@@ -12,8 +12,8 @@
       "version": "1.0.0",
       "source": "./",
       "author": {
-        "name": "Udhay Kumar",
-        "email": "udhaykumarbala@gmail.com"
+        "name": "udhaykumar balakrishnan",
+        "email": "udhayk97@gmail.com"
       }
     }
   ]

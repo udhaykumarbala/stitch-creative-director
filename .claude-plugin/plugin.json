@@ -3,10 +3,10 @@
   "description": "Creative direction layer for Google Stitch. 5-phase workflow, 12 design archetypes, style-mixing framework. Turns vague design prompts into intentional, distinctive UIs.",
   "version": "1.0.0",
   "author": {
-    "name": "Udhay Kumar",
-    "email": "udhaykumarbala@gmail.com"
+    "name": "udhaykumar balakrishnan",
+    "email": "udhayk97@gmail.com"
   },
-  "homepage": "https://github.com/udhaykumarbala/stitch-creative-director",
+  "homepage": "https://udhaykumarbala.dev",
   "repository": "https://github.com/udhaykumarbala/stitch-creative-director",
   "license": "MIT",
   "keywords": [
