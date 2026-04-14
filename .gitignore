@@ -15,3 +15,7 @@ planning/
 
 # Local skill installs (created by `npx skills add`)
 .agents/
+.claude/
+.trae/
+skills/
+skills-lock.json
