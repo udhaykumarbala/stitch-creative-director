@@ -12,3 +12,6 @@ node_modules/
 PUBLISHING.md
 planning/
 *.plan.md
+
+# Local skill installs (created by `npx skills add`)
+.agents/
